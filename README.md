@@ -30,7 +30,7 @@
 - ⚡ **Fun fact:** I write clean code with lo-fi beats in the background 🎧
 
 
-📩 **Let's Connect:** [sumitbansode360@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sumitbansode360@gmail.com) | [_**LinkedIn**_](https://www.linkedin.com/in/sumitbansode)
+📩 **Let's Connect:** [sumitbansode360@gmail.com](mailto:sumitbansode360@gmail.com) | [_**LinkedIn**_](https://www.linkedin.com/in/sumitbansode)
 
 ---
 
