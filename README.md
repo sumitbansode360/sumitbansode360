@@ -27,7 +27,7 @@
 - 🚀 Passionate about solving real-world problems with **clean backend architecture**  
 - 📢 Sharing project demos and dev insights on **LinkedIn**  
 - 💬 Ask me about **backend APIs, real-time systems, or Django performance tuning**  
-- ⚡ **Fun fact:** I write clean code with lo-fi beats in the background 🎧
+- ⚡ **Fun fact:** I write clean code without lo-fi beats in the background 🎧
 
 
 📩 **Let's Connect:** [sumitbansode360@gmail.com](mailto:sumitbansode360@gmail.com) | [_**LinkedIn**_](https://www.linkedin.com/in/sumitbansode)
