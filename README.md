@@ -1,7 +1,6 @@
 # Hi 👋, I'm Sumit Bansode
 
 **Python Backend Developer (Django/DRF) | Full-Stack Developer | Real-Time App Enthusiast**
-<!-- I specialize in building **scalable, modern, and high-performance applications** across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible. Oh, and I also founded [_**Desphixs**_](https://desphixs.io).  -->
 <br>
 <table>
   <tr>
@@ -13,7 +12,7 @@
         I'm a passionate full-stack developer from Mumbai, India, focused on building scalable, real-time web applications using Django, Django Rest Framework, and React.js. I love working on end-to-end systems — from backend APIs and database design to sleek frontends and CI/CD pipelines.
       </p>
       <div align="left">
-        <img src="https://profile-counter.glitch.me/sumitbansode360/count.svg" alt="desphixs" width="150" /> <br> Profile Views
+        <img src="https://profile-counter.glitch.me/sumitbansode360/count.svg" alt="profile views" width="150" /> <br> Profile Views
       </div>
     </td>
   </tr>
