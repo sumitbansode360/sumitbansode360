@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/5676a61a-0d76-47de-be82-a498bdac6c4d" width="850px" style="border-radius: 50%;" />
+      <img src="https://github.com/user-attachments/assets/5676a61a-0d76-47de-be82-a498bdac6c4d" width="850px" height="850" style="border-radius: 50%;" />
     </td>
     <td>
       <p align="left">
