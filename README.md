@@ -35,7 +35,7 @@
 
 ## 🔥 Highlight Projects
 
-### 🔗 [Editly 2.0](https://github.com/sumitbansode360/EditlyMono) — [Live Demo](https://editly-app.duckdns.org/)
+### 🔗 [Editly 2.0](https://github.com/sumitbansode360/EditlyMono)
 Real-time collaborative document editor, rebuilt from the ground up with a production-grade architecture
 - Conflict-free multi-user editing using Yjs CRDTs
 - Role-based access control (RBAC) + JWT-secured DRF backend
