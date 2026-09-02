@@ -93,15 +93,6 @@ Original version of the collaborative editor. Rebuilt from scratch as **Editly 2
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
-
----
-
-## 📊 **GitHub Stats**  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbansode360&layout=compact&theme=radical" height="160px" />
-
-
 ---
 
 <picture>
