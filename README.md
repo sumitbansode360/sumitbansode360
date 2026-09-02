@@ -12,7 +12,7 @@
         I'm a passionate full-stack developer from Mumbai, India, focused on building scalable, real-time web applications using Django, Django Rest Framework, and React.js. I love working on end-to-end systems — from backend APIs and database design to sleek frontends and CI/CD pipelines.
       </p>
       <div align="left">
-        <img src="https://profile-counter.glitch.me/sumitbansode360/count.svg" alt="profile views" width="150" /> <br> Profile Views
+        <img src="https://komarev.com/ghpvc/?username=sumitbansode360" alt="profile views" width="150" /> <br> Profile Views
       </div>
     </td>
   </tr>
