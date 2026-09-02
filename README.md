@@ -40,7 +40,7 @@ Real-time collaborative document editor, rebuilt from the ground up with a produ
 - Conflict-free multi-user editing using Yjs CRDTs
 - Role-based access control (RBAC) + JWT-secured DRF backend
 - Deployed as a 7-service Docker Compose stack on AWS EC2 with self-configured HTTPS
-- 
+  
 ### 🔗 [RjMaitriCircle](https://github.com/sumitbansode360/RjMaitriCircle)  
 Social platform connecting college alumni and students  
 - Real-time chat via WebSockets  
